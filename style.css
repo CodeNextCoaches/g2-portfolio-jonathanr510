@@ -5,7 +5,7 @@ list-style-type:none
 nav ul li {
   display: inline;
 
-  border: 1px solid black;
+  border: 0 solid black;
   padding: 0 5px;
   margin: 0 15px;
   }
@@ -20,7 +20,7 @@ height: 30px;
 }
 
 p{
-  background-color: #BCF4f0;
+  background-color: grey;
   margin: 0 auto;
   width: 75%;
 }
